@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="0"/>
+
+  <!-- Leaf 1 -->
+  <g>
+    <path d="M0-8 C7-3 7 3 0 8 C-7 3-7-3 0-8Z" fill="#e8c030" opacity="0.80">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 70,-12 Q 90,100 60,232" dur="4.1s" repeatCount="indefinite" begin="0s"/>
+  </g>
+
+  <!-- Leaf 2 -->
+  <g>
+    <path d="M0-7 C6-3 6 3 0 7 C-6 3-6-3 0-7Z" fill="#d4a012" opacity="0.70">
+      <animateTransform attributeName="transform" type="rotate" from="45" to="405" dur="4s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 180,-10 Q 155,95 185,230" dur="5.0s" repeatCount="indefinite" begin="-1.5s"/>
+  </g>
+
+  <!-- Leaf 3 -->
+  <g>
+    <path d="M0-9 C8-4 8 4 0 9 C-8 4-8-4 0-9Z" fill="#e07530" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="3.6s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 310,-8 Q 285,105 320,232" dur="4.6s" repeatCount="indefinite" begin="-2.8s"/>
+  </g>
+
+  <!-- Leaf 4 -->
+  <g>
+    <path d="M0-7 C6-2 6 2 0 7 C-6 2-6-2 0-7Z" fill="#f0d050" opacity="0.65">
+      <animateTransform attributeName="transform" type="rotate" from="90" to="450" dur="5.1s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 450,-14 Q 475,90 445,232" dur="3.8s" repeatCount="indefinite" begin="-0.8s"/>
+  </g>
+
+  <!-- Leaf 5 -->
+  <g>
+    <path d="M0-8 C7-3 7 3 0 8 C-7 3-7-3 0-8Z" fill="#cc5522" opacity="0.70">
+      <animateTransform attributeName="transform" type="rotate" from="270" to="630" dur="4.3s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 590,-10 Q 610,110 575,232" dur="4.9s" repeatCount="indefinite" begin="-3.5s"/>
+  </g>
+
+  <!-- Leaf 6 -->
+  <g>
+    <path d="M0-9 C8-4 8 4 0 9 C-8 4-8-4 0-9Z" fill="#e8c030" opacity="0.60">
+      <animateTransform attributeName="transform" type="rotate" from="15" to="375" dur="3.9s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 720,-8 Q 695,100 730,232" dur="5.2s" repeatCount="indefinite" begin="-2.1s"/>
+  </g>
+
+  <!-- Leaf 7 -->
+  <g>
+    <path d="M0-7 C6-3 6 3 0 7 C-6 3-6-3 0-7Z" fill="#b8860a" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="4.7s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <animateMotion path="M 840,-12 Q 820,108 855,232" dur="4.2s" repeatCount="indefinite" begin="-1.0s"/>
+  </g>
+
+  <!-- Title -->
+  <text
+    x="450" y="128"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+    font-size="80"
+    font-weight="200"
+    letter-spacing="-3"
+  >
+    <tspan fill="#ffffff">Medali</tspan><tspan fill="#e8c030" font-weight="600">sis</tspan>
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="450" y="163"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+    font-size="13"
+    font-weight="300"
+    fill="#333333"
+    letter-spacing="2"
+  >B2B SaaS PLATFORM</text>
+</svg>
