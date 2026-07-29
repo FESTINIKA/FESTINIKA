@@ -65,11 +65,5 @@ Native mobile applications. Offline-first, field use.
 ---
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=FESTINIKA&hide_border=true&background=080808&ring=e8c030&fire=e8c030&currStreakLabel=e8c030&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
-<div align="center">
   <sub>© 2026 Festinika · Medalisis</sub>
 </div>
