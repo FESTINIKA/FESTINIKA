@@ -66,7 +66,7 @@ Native mobile applications. Offline-first, field use.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FESTINIKA&show_icons=true&hide_border=true&bg_color=080808&title_color=e8c030&text_color=888888&icon_color=e8c030&ring_color=e8c030)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FESTINIKA&hide_border=true&background=080808&ring=e8c030&fire=e8c030&currStreakLabel=e8c030&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
